@@ -60,8 +60,6 @@ A mobile app for gratitude journaling and daily mood tracking.
 
 ---
 
-## GitHub Stats
-
 ![Nirmalie Perera's GitHub stats](https://github-readme-stats.vercel.app/api?username=NirmaliePerera&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NirmaliePerera&layout=compact&theme=tokyonight)
@@ -72,4 +70,4 @@ A mobile app for gratitude journaling and daily mood tracking.
 
 I’m open to collaborations, learning opportunities, and meaningful projects in data and software engineering.
 
-Email: [nirmalieshehani27@gmail.com](mailto:nirmalieshehani27@gmail.com) | LinkedIn: [linkedIn Profile](https://www.linkedin.com/in/nirmalie-perera-1b62432b9/?originalSubdomain=lk) | GitHub: [github.com/NirmaliePerera](https://github.com/NirmaliePerera)
+[nirmalieshehani27@gmail.com](mailto:nirmalieshehani27@gmail.com) | [linkedIn Profile](https://www.linkedin.com/in/nirmalie-perera-1b62432b9/?originalSubdomain=lk) | [github.com/NirmaliePerera](https://github.com/NirmaliePerera)
