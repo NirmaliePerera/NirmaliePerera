@@ -11,7 +11,7 @@ I’m passionate about turning data into actionable insights and building practi
 - 💬 Ask me about: Python, data analysis, Power BI, machine learning, and research trends
 - 📫 Reach me: [nirmalieshehani27@gmail.com](mailto:nirmalieshehani27@gmail.com)
 - 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/nirmalie-perera-1b62432b9/?originalSubdomain=lk)
-- 🎓 Education: [BSc. (honors) in Information Technology / BCI Campus / 2026]
+- 🎓 Education: BSc. (honors) in Information Technology / BCI Campus / 2026
 
 ---
 
@@ -72,6 +72,4 @@ A mobile app for gratitude journaling and daily mood tracking.
 
 I’m open to collaborations, learning opportunities, and meaningful projects in data and software engineering.
 
-- Email: [nirmalieshehani27@gmail.com](mailto:nirmalieshehani27@gmail.com)
-- LinkedIn: [linkedIn Profile](https://www.linkedin.com/in/nirmalie-perera-1b62432b9/?originalSubdomain=lk)
-- GitHub: [github.com/NirmaliePerera](https://github.com/NirmaliePerera)
+Email: [nirmalieshehani27@gmail.com](mailto:nirmalieshehani27@gmail.com) | LinkedIn: [linkedIn Profile](https://www.linkedin.com/in/nirmalie-perera-1b62432b9/?originalSubdomain=lk) | GitHub: [github.com/NirmaliePerera](https://github.com/NirmaliePerera)
