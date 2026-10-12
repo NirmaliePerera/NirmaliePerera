@@ -1,18 +1,17 @@
-## Hi, I'm Nirmalie Perera 👋
+## Greetings from Nirmalie Perera 👋
 
-Data Analyst • Machine Learning Enthusiast • Software Developer
+Data Analyst | Machine Learning Enthusiast | Software Developer
 
 I’m passionate about turning data into actionable insights and building practical, user-focused digital solutions. My work spans data analysis, predictive modeling, research-driven AI applications, business intelligence, and software development.
 
 - 🔭 Currently working on: data analysis, ML projects, and research-driven applications
-- 🌱 Currently learning: advanced analytics, AI/ML workflows, and modern software engineering practices
-- 👯 Looking to collaborate on: data-driven products, research projects, and impactful software solutions
-- 🤔 Open to: internships, projects, and opportunities in data analytics, AI, and software development
-- 💬 Ask me about: Python, data analysis, Power BI, machine learning, research trends, and application development
-- 📫 Reach me: [your-email@example.com](mailto:your-email@example.com)
-- 🔗 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
-- 🌐 Portfolio: [your-portfolio-site.com](https://your-portfolio-site.com)
-- 🎓 Education: [Add your degree / university / graduation year]
+- 🌱 Currently learning: advanced analytics, AI/ML workflows, and data science/engineering 
+- 👯 Looking to collaborate on: data-driven products, research projects, and data science/engineering work
+- 🤔 Open to: internships, projects, and opportunities in data analytics, data science, and data engineering 
+- 💬 Ask me about: Python, data analysis, Power BI, machine learning, and research trends
+- 📫 Reach me: [your-email@example.com](mailto:nirmalieshehani27@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/nirmalie-perera-1b62432b9/?originalSubdomain=lk)
+- 🎓 Education: [BSc. (honors) in Information Technology / BCI Campus / 2026]
 
 ---
 
@@ -27,11 +26,6 @@ A final-year research project focused on applying Retrieval-Augmented Generation
 Power BI dashboard covering customer segmentation, campaign analysis, and marketing channel insights.
 
 - Repository: [Dashboard_with_Power-BI_Marketing_Analytics](https://github.com/NirmaliePerera/Dashboard_with_Power-BI_Marketing_Analytics)
-
-### Machine Learning Projects
-Practical machine learning work with model building and analysis across multiple datasets.
-
-- Repository: [Machine-Learning-Projects](https://github.com/NirmaliePerera/Machine-Learning-Projects)
 
 ### Big Data Analysis Projects
 A dataset-driven project exploring large-scale data across multiple characteristics and countries.
@@ -48,13 +42,14 @@ A mobile app for gratitude journaling and daily mood tracking.
 ## Skills and Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 ### Core areas
 - Data analysis and visualization
@@ -75,11 +70,8 @@ A mobile app for gratitude journaling and daily mood tracking.
 
 ## Let’s Connect
 
-I’m open to collaborations, learning opportunities, and meaningful projects in data, AI, and software engineering.
+I’m open to collaborations, learning opportunities, and meaningful projects in data and software engineering.
 
 - Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
-- Portfolio: [your-portfolio-site.com](https://your-portfolio-site.com)
+- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/nirmalie-perera-1b62432b9/?originalSubdomain=lk)
 - GitHub: [github.com/NirmaliePerera](https://github.com/NirmaliePerera)
-
-> Replace the placeholder values with your real LinkedIn, portfolio, education details, and contact information to make it fully personal.
